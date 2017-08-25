@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\raw\\test.mp3"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\goodwork1.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\raw\\goodwork1.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\goodwork.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\raw\\goodwork.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

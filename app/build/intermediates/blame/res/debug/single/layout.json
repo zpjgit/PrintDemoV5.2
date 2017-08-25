@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_material_transport.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_material_transport.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip_edit.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_ip_edit.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lable_print.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_lable_print.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_result.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_show_result.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_item.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\device_item.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list_serial.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\device_list_serial.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_tcp.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_test_tcp.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_barcode.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_print_barcode.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_text.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_print_text.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pdf.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_pdf.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\re.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\re.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\codepage.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\codepage.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\heardview_layout.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\heardview_layout.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pdf_print.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_pdf_print.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_activitya.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_main_activitya.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_print_picture.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\layout\\activity_print_picture.xml"
+    }
+]

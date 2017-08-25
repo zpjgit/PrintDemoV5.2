@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\lable.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\lable.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\picture.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pdf.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\pdf.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\barcode.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\barcode.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\text.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\setting.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

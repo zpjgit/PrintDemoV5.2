@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\goodwork.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-mdpi\\goodwork.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\test.jpg",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-mdpi\\test.jpg"
+    }
+]

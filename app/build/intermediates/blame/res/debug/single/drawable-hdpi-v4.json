@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goodwork.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-hdpi\\goodwork.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test.jpg",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-hdpi\\test.jpg"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spdp8.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-hdpi\\spdp8.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_monochrome_image.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-hdpi\\my_monochrome_image.bmp"
+    }
+]

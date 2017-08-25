@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\saomiao\PrintDemoV5.2\app\src\main\res"/><source path="C:\saomiao\PrintDemoV5.2\app\build\generated\res\rs\debug"/><source path="C:\saomiao\PrintDemoV5.2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\saomiao\PrintDemoV5.2\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\saomiao\PrintDemoV5.2\app\src\main\res"><file name="btn_style_green" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\btn_style_green.xml" qualifiers="" type="drawable"/><file name="et" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\et.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\ic_launcher.png" qualifiers="" type="drawable"/><file name="mm_title_back_btn" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\mm_title_back_btn.xml" qualifiers="" type="drawable"/><file name="my_editbox" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\my_editbox.xml" qualifiers="" type="drawable"/><file name="my_monochrome_image" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\my_monochrome_image.bmp" qualifiers="" type="drawable"/><file name="my_picture" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\my_picture.bmp" qualifiers="" type="drawable"/><file name="original" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\original.jpg" qualifiers="" type="drawable"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\test.jpg" qualifiers="" type="drawable"/><file name="toggle_btn" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable\toggle_btn.xml" qualifiers="" type="drawable"/><file name="back_arrow_2" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\back_arrow_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="barcode" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\barcode.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_disabled" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\btn_style_disabled.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_focused" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\btn_style_one_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_normal" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\btn_style_one_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_style_one_pressed" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\btn_style_one_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="confirm_dialog_bg2" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\confirm_dialog_bg2.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edit_normal" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\edit_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edit_pressed" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\edit_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="goodwork" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\goodwork.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="icon_back" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\icon_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_about" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\ic_about.png" qualifiers="hdpi-v4" type="drawable"/><file name="lable" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\lable.png" qualifiers="hdpi-v4" type="drawable"/><file name="mmtitle_bg_alpha" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\mmtitle_bg_alpha.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_focused" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\mm_title_back_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_normal" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\mm_title_back_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="mm_title_back_pressed" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\mm_title_back_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="my_monochrome_image" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\my_monochrome_image.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="pdf" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\pdf.png" qualifiers="hdpi-v4" type="drawable"/><file name="picture" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\picture.png" qualifiers="hdpi-v4" type="drawable"/><file name="setting" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\setting.png" qualifiers="hdpi-v4" type="drawable"/><file name="spdp8" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\spdp8.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\test.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="text" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\text.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_btn_checked" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\toggle_btn_checked.png" qualifiers="hdpi-v4" type="drawable"/><file name="toggle_btn_unchecked" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-hdpi\toggle_btn_unchecked.png" qualifiers="hdpi-v4" type="drawable"/><file name="goodwork" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-ldpi\goodwork.bmp" qualifiers="ldpi-v4" type="drawable"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-ldpi\test.jpg" qualifiers="ldpi-v4" type="drawable"/><file name="goodwork" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-mdpi\goodwork.bmp" qualifiers="mdpi-v4" type="drawable"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-mdpi\test.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="barcode" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\barcode.png" qualifiers="xhdpi-v4" type="drawable"/><file name="goodwork" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\goodwork.bmp" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lable" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\lable.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pdf" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\pdf.png" qualifiers="xhdpi-v4" type="drawable"/><file name="picture" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\picture.png" qualifiers="xhdpi-v4" type="drawable"/><file name="setting" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\setting.png" qualifiers="xhdpi-v4" type="drawable"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\test.jpg" qualifiers="xhdpi-v4" type="drawable"/><file name="text" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xhdpi\text.png" qualifiers="xhdpi-v4" type="drawable"/><file name="goodwork" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xxhdpi\goodwork.bmp" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\drawable-xxhdpi\test.jpg" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_capture" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_capture.xml" qualifiers="" type="layout"/><file name="activity_ip_edit" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_ip_edit.xml" qualifiers="" type="layout"/><file name="activity_lable_print" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_lable_print.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_main_activitya" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_main_activitya.xml" qualifiers="" type="layout"/><file name="activity_material_transport" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_material_transport.xml" qualifiers="" type="layout"/><file name="activity_pdf" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_pdf.xml" qualifiers="" type="layout"/><file name="activity_pdf_print" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_pdf_print.xml" qualifiers="" type="layout"/><file name="activity_print_barcode" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_print_barcode.xml" qualifiers="" type="layout"/><file name="activity_print_picture" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_print_picture.xml" qualifiers="" type="layout"/><file name="activity_print_text" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_print_text.xml" qualifiers="" type="layout"/><file name="activity_setting" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_setting.xml" qualifiers="" type="layout"/><file name="activity_show_result" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_show_result.xml" qualifiers="" type="layout"/><file name="activity_splash" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_splash.xml" qualifiers="" type="layout"/><file name="activity_test_tcp" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_test_tcp.xml" qualifiers="" type="layout"/><file name="activity_title" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\activity_title.xml" qualifiers="" type="layout"/><file name="codepage" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\codepage.xml" qualifiers="" type="layout"/><file name="device_item" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\device_item.xml" qualifiers="" type="layout"/><file name="device_list" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\device_list.xml" qualifiers="" type="layout"/><file name="device_list_serial" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\device_list_serial.xml" qualifiers="" type="layout"/><file name="heardview_layout" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\heardview_layout.xml" qualifiers="" type="layout"/><file name="re" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\layout\re.xml" qualifiers="" type="layout"/><file name="about_us" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\menu\about_us.xml" qualifiers="" type="menu"/><file name="main" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="material_transport" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\menu\material_transport.xml" qualifiers="" type="menu"/><file name="setting" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\menu\setting.xml" qualifiers="" type="menu"/><file name="splash" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\menu\splash.xml" qualifiers="" type="menu"/><file name="beep" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file name="goodwork" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\raw\goodwork.bmp" qualifiers="" type="raw"/><file name="goodwork1" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\raw\goodwork1.bmp" qualifiers="" type="raw"/><file name="realm_properties" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\raw\realm_properties" qualifiers="" type="raw"/><file name="test" path="C:\saomiao\PrintDemoV5.2\app\src\main\res\raw\test.mp3" qualifiers="" type="raw"/><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values\color.xml" qualifiers=""><color name="result_view">#b0000000</color><color name="snow">#FFFAFA</color><color name="possible_result_points">#c0ffff00</color><color name="viewfinder_mask">#60000000</color></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values\config.xml" qualifiers=""><string name="serverurl">http://118.26.65.219:8081/updateinfo.html</string></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values\ids.xml" qualifiers=""><item name="return_scan_result" type="id"/><item name="split" type="id">false</item><item name="launch_product_query" type="id"/><item name="webview" type="id"/><item name="decode_succeeded" type="id"/><item name="decode" type="id"/><item name="gridview" type="id"/><item name="decode_failed" type="id"/><item name="about_version_code" type="id">false</item><item name="encode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="restart_preview" type="id"/><item name="search_book_contents_failed" type="id"/><item name="quit" type="id"/><item name="search_book_contents_succeeded" type="id"/><item name="auto_focus" type="id"/></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values\strings.xml" qualifiers=""><string name="str_text_left">文字居左效果演示abc123：</string><string name="printerName">device name:no connection</string><string name="level_range_qrcode"> Range（0~8）</string><string name="print">Print</string><string name="please_wait">Please Wait...</string><string name="hex_open">Hex_Open</string><string name="scan_connect">Scan And Connection</string><string name="version_default_value">1</string><string name="previous_page">Previous Page</string><string name="print_table">Show Example of Table</string><string name="title_activity_splash">SplashActivity</string><string name="print_note">Show Example of Receipt</string><string-array name="tear_data">
+        <item>tear</item>
+        <item>strip</item>
+        <item>close</item>
+    </string-array><string name="shop_company_site">公司网址：</string><string name="canvas_print">Canvas</string><string name="barcode_print_show">Show Example</string><string name="textprintactivty_input_content">This is just a test!</string><string name="has_paired">Already Paired</string><string-array name="interface_type">
+        <item>Bluetooth</item>
+        <item>USB</item>
+        <item>Wifi</item>
+        <item>Serial port</item>
+    </string-array><string name="content_position">Position:</string><string name="cucumber">蒜泥黄瓜</string><string name="shop_goods_total_price">总计：</string><string name="tv_example">Show Example</string><string name="content_after_scann">Content after scanning</string><string name="conn_failed">Connect Failed</string><string name="select_photos">Gallery</string><string name="shop_cashier_num">收银员：</string><string name="settingactivitty_toast_bluetooth_set_tspl_successful">TSPL set successful with BT</string><string name="shop_company_address">地址：江苏省宁波市某某路某某号</string><string name="barcode_height_default_value">162</string><string name="tv_current_wifi">Present Wifi:</string><string name="qrcode_example">Show QrBarcode</string><string name="shop_Service_Line">服务专线：</string><string name="scan_text">Put the qr code in the box and scan automatically</string><string name="String_judge1">prohibit open the box</string><string name="barcode_print">Print BarCode</string><string name="String_judge2">open the box before print</string><string name="check_status">Check Status</string><string name="not_support">This phone does not support this feature</string><string name="picture_print">Print Picture</string><string name="String_judge5">buzzer rang before print</string><string name="String_judge6">buzzer rang after print</string><string name="shop_note_num">单据号：</string><string name="String_judge3">open the box after print</string><string name="headview_BarcodePrint">Barcode</string><string name="String_judge4">ban buzzer</string><string name="coffee">咖啡</string><string name="str_connlast">connected to the last device?</string><string name="send_data">Send Data To Print</string><string name="lable_of_tracking_number">Label Of Tracking Number</string><string name="headview_PdfPrint">PDF</string><string name="about">About</string><string name="hello_world">Hello world!</string><string name="choosePDFFile">choose the PDF file</string><string name="str_note">打印小票效果演示：</string><string name="app_name">AndroidPrintDemo</string><string name="lable_of_milky_tea">Label Of Milky Tea Room</string><string name="lable_of_material_transport_80mm2">Material Transport 80mm</string><string-array name="spingarr">
+        <item>115200</item>
+        <item>9600</item>
+        <item>230400</item>
+        <item>460800</item>
+    </string-array><string name="characters_in_line">Char/line:</string><string name="barcode_example">Show Barcode</string><string name="data_range">Data Range</string><string name="settingactivity_tspl_orderset">TSPL</string><string-array name="beep_data">
+        <item>ban buzzer</item>
+        <item>buzzer rang before print</item>
+        <item>buzzer rang after print</item>
+    </string-array><string name="print_all_pdf_document">PDF Print</string><string name="settingactivity_not_print_area">no print area</string><string name="shop_print_time">打印时间：</string><string name="width_data_range"> Range（2~6）</string><string name="barcode_height_data_range_datamatrix"> Range（0~144）</string><string name="test">Test</string><string name="ean_8_default_value">12345678</string><string name="level_range_default_value_qrcode">8</string><string name="tv_barcode_width">Width Of Code:</string><string name="not_paired">Have not Paired</string><string name="yesconn">Connect to Last Time</string><string name="lable_of_physical_distribution_100mm">Physical Distribution 100mm</string><string name="times">倍</string><string name="default_barcode_type">CODE128</string><string name="text_print">print Text</string><string name="openConnection">OPEN CONNECTION</string><string-array name="barcode2">
+        <item>QRCODE</item>
+        <item>PDF417</item>
+        <item>DATAMATRIX</item>
+    </string-array><string name="barcode_data_send">Send Data And Print</string><string name="shop_goods_number">数量：</string><string-array name="barcode1">
+        <item>CODE128</item>
+        <item>CODE39</item>
+        <item>CODEBAR</item>
+        <item>ITF</item>
+        <item>CODE93</item>
+        <item>UPC-A</item>
+        <item>UPC-E</item>
+        <item>EAN13</item>
+        <item>EAN8</item>
+        <item>All Types</item>
+    </string-array><string name="qrcode"> QR Code</string><string name="printerAddress">deivice address:no connection</string><string name="lable_of_anneng_physical_distribution_80mm">Physical Distribution 80mm</string><string name="shop_receipt_num">单据</string><string name="str_text_height">同行不同高效果演示：：</string><string name="monochrome_print">Print Monochrome</string><string name="version_update">Version Update</string><string name="conn_no">No devices can connect</string><string name="shop_company_title">宁波月湖店</string><string name="print_test">Print TestPage</string><string name="str_text_underline">文字下划线效果演示abc123：</string><string name="title_activity_about_us">AboutUsActivity</string><string name="lable_of_library_58mm">Library Lable 58mm</string><string name="settingactivity_tear_setting">tear setting:</string><string name="settingactivity_toast_usb_set_tspl_succefful">TSPL set successful with USB</string><string name="pdf_print">Print PDF</string><string name="lable_of_storage">Label Of Storage Sector</string><string name="hex_close">Hex_Close</string><string name="barcode_height_default_value_datamatrix">0</string><string name="default_content_position">Default</string><string name="shop_company_name">公司名称：江苏某某家居用品有限公司</string><string name="settingactivity_print_numbers">print numbers:</string><string name="str_canvas">Show Canvas：</string><string name="setting">Setting</string><string name="action_settings">Settings</string><string name="level">level:</string><string name="shop_num">门店号：</string><string name="barcode_width_data_range_datamatrix"> Range（8~144）</string><string name="verion_range">Range（0~40）</string><string name="title_activity_pdf_print">PdfPrintActivity</string><string name="default_code_content">01051661178</string><string name="str_message">Tips：</string><string name="barcode_data_defalut">Default</string><string name="barcode_width">Width:</string><string name="barcode">Barcode</string><string name="settingactivity_print_test">print test</string><string-array name="barEnlargeArray">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array><string name="settingactivity_orderset">orderset</string><string name="shop_change">找零：</string><string name="headview_LablePrint">Lable</string><string name="next_page">Next Pag</string><string name="str_resel">New Search</string><string name="headview_PicturePrint">Picture</string><string name="title_activity_main_activitya">MainActivitya</string><string name="shop_thanks">谢谢惠顾,欢迎再次光临！</string><string name="on_line">device online</string><string-array name="codepages">
+        <item>Katakana</item>
+    </string-array><string name="lable_print">Print Lable</string><string name="tableware">消毒餐具</string><string name="content_to_print">Please input the text need to print...</string><string name="barcode_width_default_value">2</string><string name="shop_payment">付款：</string><string name="choose_pdf_file">choose pdf file</string><string name="note_title">品名;数量;单价;金额</string><string name="height_data_range"> Rrange（0~255）</string><string name="cancel">Cancel</string><string name="call_us">Call Us</string><string name="disconnect">Close Connection</string><string name="settingactivity_margin_left">margin left(mm):</string><string name="hook">铁丝挂钩</string><string name="scan_and_print">Scan And Print</string><string name="lable_of_material_transport_80mm">Material Transport 80mm</string><string name="chose_barcode_type">Please choose the type of barcode</string><string name="print_codepage">Print CodePage</string><string-array name="cash_data">
+        <item>prohibit open the box</item>
+        <item>open the box before print</item>
+        <item>open the box after print</item>
+    </string-array><string name="headview_setting">Setting</string><string name="switch_wifi">Switch WiFi</string><string name="rice">米饭</string><string name="tv_barcode_setting">Setting</string><string name="settingactivity_cpcl_orderset">CPCL</string><string name="settingactivity_margin_top">margin top(mm):</string><string name="settingactivity_buzzer_setting">buzzer setting:</string><string name="level_range"> Range（72,76,77,81）</string><string name="button_scan">Scan New Devices</string><string name="shop_receipt_date">单据日期：</string><string name="scann_new_devices">Scan for New Devices</string><string name="settingactivity_gap_offset">gap offset(mm):</string><string name="peanuts">油炸花生米</string><string name="barcode_height">Height:</string><string name="back">Back</string><string name="none_paired">No Paired Device</string><string name="title_activity_lable_print">LablePrintActivity</string><string name="scanning">Scanning...</string><string name="notroot">The device is likely to have no root privileges, and the serial port requires root privileges</string><string name="settingactivity_gap">gap(mm):</string><string name="paper_width">Paper Width</string><string name="str_text_right">文字居右效果演示abc123：</string><string name="title_activity_material_transport">MaterialTransportActivity</string><string name="level_default_value">76</string><string name="unknown_device">unknown device</string><string name="bt_not_enabled">Bluetooth is not enabled</string><string name="select_device">Pleaase select the device to connect</string><string name="off_line">device offline</string><string name="tv_barcode_height">height Of Code:</string><string name="example_for_codepage_print">Show CodePage</string><string name="shop_company_tel">电话：</string><string name="characters_default_value">0</string><string name="str_show">演示：</string><string name="version">Version:</string><string name="codepageTest">Select CodePage Models:</string><string-array name="barNoteArray">
+        <item>Default</item>
+        <item>Above</item>
+        <item>Below</item>
+        <item>Both</item>
+    </string-array><string name="no_connected">Printer Not Connected</string><string name="company_name">打印机公司</string><string name="str_text">打印文本效果展示：</string><string name="tv_barcode_type">Code Type</string><string name="str_text_strong">文字加粗效果演示abc123：</string><string name="frog">干锅田鸡</string><string name="printerType">Printer Model</string><string name="copies_number">Number of Copies</string><string name="qrcode_scann">Scan QrCode</string><string name="settingactivity_speed">speed(inch/seconds):</string><string name="upc_e_default_value">000000000000</string><string name="default_qrcode_type">QRCODE</string><string name="take_phtoto_print">Take Pictures And Print</string><string-array name="printertype">
+        <item>L31</item>
+        <item>L51</item>
+        <item>T10</item>
+        <item>T9</item>
+        <item>T7</item>
+        <item>POS58</item>
+        <item>POS885</item>
+        <item>EU80 series</item>
+    </string-array><string name="ean_13_default_value">1234567891234</string><string name="user_guide">User Guide</string><string name="str_text_center">文字居中效果演示abc123：</string><string name="characters_range"> Range（1~30）</string><string name="tips_for_not_connect">Sorry,there is no connected Printer！</string><string name="umbrella">雨伞</string><string name="website">Website</string><string name="shop_demo">Demo 版本！</string><string name="lable_of_fruit">Label Of Fruit And Vegetables</string><string name="bigger">放大</string><string name="bigger1">倍效果演示abc123</string><string name="settingactivity_other_settings">other settings</string><string name="settingactivity_cash_box_setting">cash box setting:</string><string name="connect">Connect</string><string name="text_input">Please input content:</string><string name="settingactivity_concentration">concentration:</string><string name="about_us">About Us</string><string name="bags">保鲜袋</string><string name="barcode_content">Content of code</string><string name="settingactivity_label_offset">label offset(mm):</string><string name="interface_type">Printer Interface Type</string><string name="connecting">Connecting...</string><string name="multiple">Multiple:</string><string name="none_found">No found</string><string name="conn_closed">Connect Closed</string><string name="print_this_page">Present Page Print</string><string name="title_activity_setting">SettingActivity</string><string name="title_activity_test_tcp">TestTCP</string><string name="headview_TextPrint">Text</string></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="settingactivity_not_print_area">非打印区域</string><string name="content_position">内容显示:</string><string name="coffee">咖啡</string><string name="umbrella">雨伞</string><string name="times">倍</string><string name="str_text_center">文字居中效果演示abc123：</string><string name="no_connected">打印机未连接!</string><string name="company_name">打印机公司</string><string name="bags">保鲜袋</string><string name="shop_cashier_num">收银员：</string><string name="text_print">文本打印</string><string name="printerType">打印机型号</string><string name="not_paired">未配对</string><string name="version">图形版本号:</string><string-array name="printertype">
+        <item>L31</item>
+        <item>L51</item>
+        <item>T10</item>
+        <item>T9</item>
+        <item>T7</item>
+        <item>POS58</item>
+        <item>POS885</item>
+        <item>EU80 series</item>
+    </string-array><string name="barcode_content">请输入条码内容</string><string name="pdf_print">PDF打印</string><string-array name="tear_data">
+        <item>撕纸</item>
+        <item>剥纸</item>
+        <item>关</item>
+    </string-array><string name="settingactivity_other_settings">其他设置</string><string name="scanning">扫描设备中...</string><string name="shop_company_title">宁波月湖店</string><string name="default_barcode_type">CODE128</string><string-array name="beep_data">
+        <item>禁止蜂鸣器</item>
+        <item>打印前蜂鸣器响</item>
+        <item>打印后蜂鸣器响</item>
+    </string-array><string name="example_for_codepage_print">代码页打印示例</string><string name="str_connlast">是否连接到上次设备？</string><string name="shop_print_time">打印时间：</string><string name="default_qrcode_type">QRCODE</string><string name="headview_BarcodePrint">条码</string><string name="connect">连接</string><string name="barcode_print">条码打印</string><string name="lable_of_fruit">蔬菜水果标签</string><string name="str_show">演示：</string><string name="scann_new_devices">扫描新设备</string><string name="shop_receipt_date">单据日期：</string><string-array name="barNoteArray">
+        <item>不打印</item>
+        <item>上方</item>
+        <item>下方</item>
+        <item>上下方均有</item>
+    </string-array><string name="level_range_default_value_qrcode">8</string><string name="printerAddress">设备地址:未连接</string><string name="str_text_height">同行不同高效果演示：：</string><string name="textprintactivty_input_content">This is just a test!</string><string name="copies_number">打印份数</string><string name="settingactivity_toast_usb_set_tspl_succefful">USB方式TSPL指令设置成功</string><string name="height_data_range">范围（0~255）</string><string name="picture_print">图片打印</string><string name="website">公司网站</string><string name="shop_company_name">公司名称：江苏某某家居用品有限公司</string><string name="str_message">提示：</string><string name="settingactivity_print_test">打印测试</string><string name="shop_demo">Demo 版本！</string><string name="str_text_strong">文字加粗效果演示abc123：</string><string name="barcode">一维码</string><string name="hook">铁丝挂钩</string><string name="str_text_left">文字居左效果演示abc123：</string><string name="qrcode_example">二维码打印示例</string><string name="openConnection">打开连接</string><string name="setting">设置</string><string name="headview_TextPrint">文本</string><string name="str_text">打印文本效果展示：</string><string name="print_all_pdf_document">打印整个pdf文件</string><string name="barcode_width_data_range_datamatrix">范围（8~144）</string><string name="data_range">取值范围</string><string name="interface_type">打印机接口类型</string><string name="barcode_height_data_range_datamatrix">范围（0~144）</string><string name="settingactivity_tear_setting">撕纸设置:</string><string name="lable_of_physical_distribution_100mm">物流标签100mm</string><string name="shop_goods_total_price">总计：</string><string name="str_canvas">打印画布效果展示：</string><string name="shop_receipt_num">单据</string><string name="tv_barcode_height">条码高度:</string><string name="bt_not_enabled">蓝牙设备没有启动</string><string name="choose_pdf_file">选择pdf文件</string><string name="multiple">放大倍数:</string><string-array name="interface_type">
+        <item>Bluetooth</item>
+        <item>USB</item>
+        <item>Wifi</item>
+        <item>Serial port</item>
+    </string-array><string name="barcode_height_default_value">162</string><string name="headview_PicturePrint">图片</string><string name="barcode_width_default_value">2</string><string name="lable_of_storage">仓储行业标签</string><string name="about_us">关于我们</string><string name="scan_text">将二维码放入框内, 即可自动扫描</string><string name="tableware">消毒餐具</string><string name="level">纠错等级:</string><string name="unknown_device">未知设备</string><string name="title_activity_setting">SettingActivity</string><string name="version_default_value">1</string><string name="back">返回</string><string name="level_range">范围（72,76,77,81）</string><string name="rice">米饭</string><string name="lable_print">标签打印</string><string name="String_judge6">打印后蜂鸣器响</string><string name="String_judge5">打印前蜂鸣器响</string><string name="barcode_height">条码高度:</string><string name="String_judge4">禁止蜂鸣器</string><string name="String_judge3">打印后开钱箱</string><string name="chose_barcode_type">请选择条码类类型</string><string name="String_judge2">打印前开钱箱</string><string name="String_judge1">禁止开钱箱</string><string-array name="barcode2">
+        <item>QRCODE</item>
+        <item>PDF417</item>
+        <item>DATAMATRIX</item>
+    </string-array><string name="headview_LablePrint">标签</string><string-array name="barcode1">
+        <item>CODE128</item>
+        <item>CODE39</item>
+        <item>CODEBAR</item>
+        <item>ITF</item>
+        <item>CODE93</item>
+        <item>UPC-A</item>
+        <item>UPC-E</item>
+        <item>EAN13</item>
+        <item>EAN8</item>
+        <item>全选</item>
+    </string-array><string name="str_text_underline">文字下划线效果演示abc123：</string><string name="none_paired">没有匹配的设备</string><string name="check_status">状态检测</string><string name="characters_in_line">每行字符数:</string><string name="default_code_content">01051661178</string><string name="take_phtoto_print">即拍即打</string><string name="barcode_height_default_value_datamatrix">0</string><string name="tv_example">打印示例展示</string><string name="width_data_range">范围（2~6）</string><string name="monochrome_print">打印预置二值图</string><string name="settingactivitty_toast_bluetooth_set_tspl_successful">蓝牙方式TSPL指令设置成功</string><string name="lable_of_material_transport_80mm">Material Transport 80mm</string><string name="headview_PdfPrint">PDF</string><string name="yesconn">确认连接</string><string name="action_settings">Settings</string><string name="app_name">AndroidPrintDemo</string><string name="barcode_data_defalut">恢复默认</string><string name="settingactivity_gap">间隙宽度（毫米）:</string><string name="print_test">打印测试页</string><string name="not_support">此手机暂不支持此功能</string><string name="settingactivity_speed">打印速度（英寸/秒）:</string><string name="peanuts">油炸花生米</string><string name="hex_open">十六进制开</string><string name="test">测试</string><string name="title_activity_lable_print">LablePrintActivity</string><string name="settingactivity_orderset">指令集</string><string name="qrcode_scann">二维码扫描</string><string name="conn_no">没有可连接的设备</string><string name="barcode_width">条码宽度:</string><string name="settingactivity_concentration">打印浓度:</string><string name="select_device">请选择要连接的设备</string><string name="content_to_print">请输入要打印的文字。。。</string><string name="print_codepage">打印代码页</string><string name="shop_company_site">公司网址：</string><string name="settingactivity_buzzer_setting">蜂鸣设置:</string><string name="verion_range">范围（0~40）</string><string name="characters_default_value">0</string><string name="cucumber">蒜泥黄瓜</string><string-array name="barEnlargeArray">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array><string name="settingactivity_cash_box_setting">钱箱設置:</string><string name="shop_Service_Line">服务专线：</string><string name="settingactivity_label_offset">标签偏移量（毫米）:</string><string name="str_note">打印小票效果演示：</string><string name="codepageTest">代码页:</string><string name="str_text_right">文字居右效果演示abc123：</string><string name="headview_setting">设置</string><string name="conn_closed">连接关闭</string><string name="settingactivity_print_numbers">打印份数（1~500）:</string><string name="shop_goods_number">数量：</string><string name="next_page">下一页</string><string name="bigger1">倍效果演示abc123</string><string name="hex_close">十六进制关</string><string name="lable_of_anneng_physical_distribution_80mm">物流标签80mm</string><string name="shop_note_num">单据号：</string><string-array name="cash_data">
+        <item>禁止开钱箱</item>
+        <item>打印前开钱箱</item>
+        <item>打印后开钱箱</item>
+    </string-array><string name="scan_and_print">扫一扫打印</string><string name="barcode_example">一维码打印示例</string><string name="note_title">品名;数量;单价;金额</string><string name="bigger">放大</string><string name="ean_8_default_value">12345678</string><string name="canvas_print">画布方式</string><string name="请选择PDF文件">choose the PDF file</string><string name="select_photos">选择相册</string><string name="connecting">连接中...</string><string name="lable_of_tracking_number">快递单号标签</string><string name="settingactivity_margin_top">顶边距离（毫米）:</string><string name="content_after_scann">以上是扫描到的内容</string><string name="scan_connect">扫一扫连接</string><string name="text_input">请输入文字:</string><string name="shop_company_address">地址：江苏省宁波市某某路某某号</string><string name="previous_page">上一页</string><string name="conn_failed">连接失败</string><string name="print_table">表格打印示例</string><string name="tv_current_wifi">当前连接到wifi:</string><string name="call_us">联系我们</string><string name="disconnect">断开连接</string><string name="characters_range">范围（1~30）</string><string name="print_note">小票打印示例</string><string name="none_found">没有找到设备</string><string name="level_range_qrcode">范围（0~8）</string><string name="print">打印</string><string name="version_update">版本检测</string><string name="paper_width">纸张宽度</string><string name="shop_change">找零：</string><string name="shop_company_tel">电话：</string><string name="upc_e_default_value">000000000000</string><string name="switch_wifi">选择WiFi</string><string name="shop_payment">付款：</string><string name="barcode_print_show">条码打印示例</string><string name="shop_num">门店号：</string><string name="default_content_position">不打印</string><string name="please_wait">请等待...</string><string name="shop_thanks">谢谢惠顾,欢迎再次光临！</string><string name="settingactivity_gap_offset">间隙偏移（毫米）:</string><string name="str_resel">重新搜索</string><string-array name="codepages">
+        <item>CP437 [U.S.A., Standard Europe]</item>
+        <item>Katakana</item>
+        <item>CP850 [Multilingual]</item>
+        <item>CP860 [Portuguese]</item>
+        <item>CP863 [Canadian-French]</item>
+        <item>CP865 [Nordic]</item>
+        <item>WCP1251 [Cyrillic]</item>
+        <item>CP866 Cyrilliec #2</item>
+        <item>MIK[Cyrillic /Bulgarian]</item>
+        <item>CP755 [East Europe，Latvian 2]</item>
+        <item>Iran</item>
+        <item>reserve</item>
+        <item>reserve</item>
+        <item>reserve</item>
+        <item>reserve</item>
+        <item>CP862 [Hebrew]</item>
+        <item>WCP1252 Latin I</item>
+        <item>WCP1253 [Greek]</item>
+        <item>CP852 [Latina 2]</item>
+        <item>CP858 Multilingual Latin Ⅰ+Euro)</item>
+        <item>Iran II</item>
+        <item>Latvian</item>
+        <item>CP864 [Arabic]</item>
+        <item>ISO-8859-1 [West Europe]</item>
+        <item>CP737 [Greek]</item>
+        <item>WCP1257 [Baltic]</item>
+        <item>Thai</item>
+        <item>CP720[Arabic]</item>
+        <item>CP855</item>
+        <item>CP857[Turkish]</item>
+        <item>WCP1250[Central Eurpoe]</item>
+        <item>CP775</item>
+        <item>WCP1254[Turkish]</item>
+        <item>WCP1255[Hebrew]</item>
+        <item>WCP1256[Arabic]</item>
+        <item>WCP1258[Vietnam]</item>
+        <item>ISO-8859-2[Latin 2]</item>
+        <item>ISO-8859-3[Latin 3]</item>
+        <item>ISO-8859-4[Baltic]</item>
+        <item>ISO-8859-5[Cyrillic]</item>
+        <item>ISO-8859-6[Arabic]</item>
+        <item>ISO-8859-7[Greek]</item>
+        <item>ISO-8859-8[Hebrew]</item>
+        <item>ISO-8859-9[Turkish]</item>
+        <item>ISO-8859-15 [Latin 3]</item>
+        <item>Thai2</item>
+        <item>CP856</item>
+        <item>全选</item>
+    </string-array><string name="tips_for_not_connect">对不起，你还没有连接打印机</string><string name="title_activity_pdf_print">PdfPrintActivity</string><string name="off_line">未连接</string><string name="print_this_page">打印当前页</string><string name="qrcode">二维码</string><string name="settingactivity_margin_left">左边距离（毫米）:</string><string name="about">关于</string><string name="lable_of_milky_tea">奶茶店标签</string><string name="hello_world">Hello world!</string><string name="tv_barcode_width">条码宽度:</string><string name="settingactivity_cpcl_orderset">CPCL指令</string><string name="has_paired">已配对</string><string name="on_line">已连接</string><string name="barcode_data_send">发送打印</string><string name="tv_barcode_setting">选择设置</string><string name="frog">干锅田鸡</string><string name="cancel">取消</string><string name="button_scan">扫描新设备</string><string name="level_default_value">76</string><string name="user_guide">用户指南</string><string name="tv_barcode_type">条码类型:</string><string name="printerName">设备名称:未连接</string><string name="lable_of_material_transport_80mm2">材料运单标签80mm</string><string name="notroot">该设备很可能没有root权限，操作串口需要root权限</string><string name="settingactivity_tspl_orderset">TSPL指令</string><string name="send_data">发送打印</string><string name="ean_13_default_value">1234567891234</string><string name="lable_of_library_58mm">图书馆标签58mm</string></file><file path="C:\saomiao\PrintDemoV5.2\app\src\main\res\values-zh-rTW\strings.xml" qualifiers="zh-rTW"><string name="settingactivity_tspl_orderset">TSPL指令</string><string name="str_resel">重新搜索</string><string name="canvas_print">畫布方式</string><string name="interface_type">打印機接口類型</string><string name="bigger">放大</string><string name="cucumber">蒜泥黃瓜</string><string name="characters_range">範圍（1~30）</string><string name="choose_pdf_file">選擇pdf文件</string><string name="openConnection">打開鏈接</string><string name="times">倍</string><string name="shop_goods_number">數量：</string><string name="str_message">提示：</string><string name="notroot">該設備很可能沒有root權限，操作串口需要root權限</string><string name="hook">鐵絲掛鉤</string><string name="tv_barcode_height">條碼高度:</string><string-array name="codepages">
+        <item>CP437 [U.S.A., Standard Europe]</item>
+        <item>Katakana</item>
+        <item>CP850 [Multilingual]</item>
+        <item>CP860 [Portuguese]</item>
+        <item>CP863 [Canadian-French]</item>
+        <item>CP865 [Nordic]</item>
+        <item>WCP1251 [Cyrillic]</item>
+        <item>CP866 Cyrilliec #2</item>
+        <item>MIK[Cyrillic /Bulgarian]</item>
+        <item>CP755 [East Europe，Latvian 2]</item>
+        <item>Iran</item>
+        <item>reserve</item>
+        <item>reserve</item>
+        <item>reserve</item>
+        <item>reserve</item>
+        <item>CP862 [Hebrew]</item>
+        <item>WCP1252 Latin I</item>
+        <item>WCP1253 [Greek]</item>
+        <item>CP852 [Latina 2]</item>
+        <item>CP858 Multilingual Latin Ⅰ+Euro)</item>
+        <item>Iran II</item>
+        <item>Latvian</item>
+        <item>CP864 [Arabic]</item>
+        <item>ISO-8859-1 [West Europe]</item>
+        <item>CP737 [Greek]</item>
+        <item>WCP1257 [Baltic]</item>
+        <item>Thai</item>
+        <item>CP720[Arabic]</item>
+        <item>CP855</item>
+        <item>CP857[Turkish]</item>
+        <item>WCP1250[Central Eurpoe]</item>
+        <item>CP775</item>
+        <item>WCP1254[Turkish]</item>
+        <item>WCP1255[Hebrew]</item>
+        <item>WCP1256[Arabic]</item>
+        <item>WCP1258[Vietnam]</item>
+        <item>ISO-8859-2[Latin 2]</item>
+        <item>ISO-8859-3[Latin 3]</item>
+        <item>ISO-8859-4[Baltic]</item>
+        <item>ISO-8859-5[Cyrillic]</item>
+        <item>ISO-8859-6[Arabic]</item>
+        <item>ISO-8859-7[Greek]</item>
+        <item>ISO-8859-8[Hebrew]</item>
+        <item>ISO-8859-9[Turkish]</item>
+        <item>ISO-8859-15 [Latin 3]</item>
+        <item>Thai2</item>
+        <item>CP856</item>
+        <item>全選</item>
+    </string-array><string-array name="printertype">
+        <item>L31</item>
+        <item>L51</item>
+        <item>T10</item>
+        <item>T9</item>
+        <item>T7</item>
+        <item>POS58</item>
+        <item>POS885</item>
+        <item>EU80 series</item>
+    </string-array><string name="hex_open">十六進制開</string><string name="tableware">消毒餐具</string><string-array name="interface_type">
+        <item>Bluetooth</item>
+        <item>USB</item>
+        <item>Wifi</item>
+        <item>Serial port</item>
+    </string-array><string name="barcode_height_default_value">162</string><string name="settingactivity_not_print_area">非打印區域</string><string name="next_page">下一頁</string><string name="bigger1">倍數演示效果abc123</string><string name="app_name">AndroidPrintDemo</string><string name="str_text_right">文字居右效果演示abc123：</string><string name="tv_barcode_type">條碼類型:</string><string name="headview_PicturePrint">圖片</string><string name="lable_print">標籤打印</string><string name="yesconn">確認連接</string><string name="headview_setting">設置</string><string name="textprintactivty_input_content">This is just a test!</string><string name="title_activity_lable_print">LablePrintActivity</string><string name="barcode_height">條碼寬度:</string><string name="bags">保鮮袋</string><string name="barcode_width">條碼寬度：</string><string name="shop_Service_Line">服務專線：</string><string name="conn_no">沒有可連接的設備</string><string name="settingactivity_label_offset">標籤偏移量（毫米）:</string><string name="lable_of_tracking_number">快遞單號標籤</string><string name="peanuts">油炸花生米</string><string name="button_scan">掃描新設備</string><string name="version_update">版本檢測</string><string name="codepageTest">代碼頁：</string><string name="on_line">已連接</string><string name="str_connlast">是否鏈接到上次設備？</string><string name="settingactivity_tear_setting">撕紙設置:</string><string name="shop_company_title">寧波月湖店</string><string-array name="cash_data">
+        <item>禁止開錢箱</item>
+        <item>打開前開錢箱</item>
+        <item>打開後開錢箱</item>
+    </string-array><string name="check_status">狀態監測</string><string name="chose_barcode_type">請選擇條碼類型</string><string name="tv_barcode_width">條碼寬度：</string><string name="settingactivity_gap_offset">間隙偏移（毫米）:</string><string name="text_input">請輸入文字:</string><string name="barcode_height_default_value_datamatrix">0</string><string name="about_us">關於我們</string><string name="connecting">連接中...</string><string name="note_title">品名;數量;單價;金額</string><string name="upc_e_default_value">000000000000</string><string name="str_text">打印文本效果展示：</string><string name="disconnect">斷開連接</string><string name="shop_cashier_num">收銀員：</string><string name="none_found">沒有找到設備</string><string name="content_to_print">請輸入要打印的文字。。。</string><string name="shop_company_address">地址：江蘇省寧波市某某路某某號</string><string name="content_position">內容顯示:</string><string name="rice">米飯</string><string name="barcode_height_data_range_datamatrix">範圍（0~144）</string><string name="off_line">未連接</string><string name="headview_BarcodePrint">條碼</string><string name="String_judge6">打印後蜂鳴器響</string><string name="select_device">請選擇要連接的設備</string><string name="characters_in_line">每行字符數:</string><string name="lable_of_physical_distribution_100mm">物流標籤100mm</string><string name="settingactivity_gap">間隙寬度（毫米）:</string><string name="level_range">範圍（72,76,77,81）</string><string name="multiple">放大倍數:</string><string name="settingactivity_print_numbers">打印份數（1~500）:</string><string name="String_judge3">打開後開錢箱</string><string name="monochrome_print">打印預置二位圖</string><string name="String_judge2">打開前開錢箱</string><string name="String_judge5">打印前蜂鳴器響</string><string name="String_judge4">禁止蜂鳴器 </string><string name="none_paired">沒有匹配的設備</string><string name="print_note">小票打印示例</string><string name="headview_TextPrint">文本</string><string name="String_judge1">禁止開錢箱</string><string name="shop_company_name">公司名稱：江蘇某某家居用品有限公司</string><string name="has_paired">已配對</string><string name="call_us">聯繫我們</string><string name="shop_payment">付款：</string><string name="action_settings">Settings</string><string name="settingactivity_orderset">指令集</string><string name="barcode">一維碼</string><string name="level">糾錯等級:</string><string name="settingactivity_other_settings">其他設置</string><string-array name="barEnlargeArray">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array><string name="headview_LablePrint">標籤</string><string name="verion_range">範圍（0~40）</string><string name="str_text_height">同行不同高演示效果：</string><string name="setting">設置</string><string name="back">返回</string><string name="settingactivity_print_test">打印測試</string><string name="print_all_pdf_document">打印整個pdf文件</string><string name="ean_13_default_value">1234567891234</string><string name="user_guide">用戶指南</string><string name="settingactivity_speed">打印速度（英寸/秒）:</string><string name="shop_note_num">單據號：</string><string name="send_data">發送打印</string><string name="printerType">打印機型號</string><string name="level_range_default_value_qrcode">8</string><string name="tips_for_not_connect">對不起，你還沒有連接打印機！</string><string name="default_qrcode_type">QRCODE</string><string name="bt_not_enabled">藍牙設備沒有啟動</string><string name="previous_page">上一頁</string><string name="scan_connect">掃一掃連接</string><string name="lable_of_storage">倉儲行業標籤</string><string name="str_show">演示：</string><string name="unknown_device">未知設備</string><string name="lable_of_fruit">蔬菜水果標籤</string><string name="text_print">文本打印</string><string name="shop_receipt_num">單據</string><string name="conn_closed">連接關閉</string><string name="connect">連接</string><string name="lable_of_anneng_physical_distribution_80mm">物流標籤80mm</string><string name="barcode_example">一維碼打印示例</string><string name="settingactivity_margin_left">左邊距離（毫米）:</string><string name="barcode_print">條碼打印</string><string name="settingactivity_cpcl_orderset">CPCL指令</string><string name="umbrella">雨傘</string><string name="qrcode">二維碼</string><string name="shop_goods_total_price">總計：</string><string name="please_wait">請等待...</string><string name="example_for_codepage_print">代碼頁打印示例</string><string name="cancel">取消</string><string name="settingactivity_buzzer_setting">蜂鳴设置:</string><string name="settingactivity_margin_top">頂邊距離（毫米）:</string><string name="barcode_data_send">發送打印</string><string name="version_default_value">1</string><string name="barcode_width_default_value">2</string><string name="print_table">表格打印示例</string><string name="height_data_range">範圍（0~255）</string><string name="default_barcode_type">CODE128</string><string name="shop_num">門店號：</string><string name="tv_barcode_setting">選擇設置</string><string name="settingactivitty_toast_bluetooth_set_tspl_successful">藍牙方式TSPL指令設置成功</string><string name="characters_default_value">0</string><string name="width_data_range">範圍（2~6）</string><string name="test">測試</string><string name="shop_print_time">打印時間：</string><string name="printerName">設備名:未連接</string><string name="select_photos">選擇相冊</string><string name="pdf_print">PDF打印</string><string name="lable_of_material_transport_80mm">材料運單80mm標籤</string><string-array name="tear_data">
+        <item>撕紙</item>
+        <item>剝紙</item>
+        <item>関</item>
+    </string-array><string name="barcode_print_show">條碼打印示例</string><string name="not_support">此手機暫不支持此功能</string><string name="tv_current_wifi">當前連接到wifi:</string><string name="scann_new_devices">掃描新設備</string><string name="hex_close">十六進制關</string><string name="shop_receipt_date">單據日期：</string><string name="str_text_underline">文字下劃線abc123：</string><string name="shop_demo">Demo 版本！</string><string name="title_activity_setting">SettingActivity</string><string name="lable_of_library_58mm">圖書館標籤58mm</string><string name="settingactivity_cash_box_setting">錢箱設置:</string><string name="company_name">打印機公司</string><string name="no_connected">打印機未連接!</string><string name="level_range_qrcode">範圍（0~8）</string><string name="str_text_strong">文字加粗效果演示abc123：</string><string name="settingactivity_toast_usb_set_tspl_succefful">USB方式TSPL指令設置成功</string><string name="barcode_content">請輸入條碼內容</string><string name="str_canvas">打印畫布效果展示：</string><string-array name="beep_data">
+        <item>禁止蜂鳴器 </item>
+        <item>打印前蜂鳴器響</item>
+        <item>打印後蜂鳴器響</item>
+    </string-array><string name="data_range">取值範圍</string><string name="qrcode_scann">二維碼掃描</string><string name="coffee">咖啡</string><string name="print_codepage">打印代碼頁</string><string name="switch_wifi">選擇WiFi</string><string name="frog">幹鍋田雞</string><string name="scan_and_print">掃一掃打印</string><string name="scan_text">將二維碼放入框內，即可自動掃描</string><string name="paper_width">紙張寬度</string><string name="print">打印</string><string name="about">關於</string><string name="lable_of_milky_tea">奶茶店標籤</string><string name="barcode_data_defalut">恢復默認</string><string name="level_default_value">76</string><string name="str_text_center">文字居中效果演示abc123：</string><string name="default_content_position">不打印</string><string name="website">公司網站</string><string name="hello_world">Hello world!</string><string name="headview_PdfPrint">PDF</string><string name="settingactivity_concentration">打印濃度:</string><string name="shop_thanks">謝謝惠顧，歡迎再次光臨！</string><string name="str_note">打印小票效果演示：</string><string-array name="barcode1">
+        <item>CODE128</item>
+        <item>CODE39</item>
+        <item>CODEBAR</item>
+        <item>ITF</item>
+        <item>CODE93</item>
+        <item>UPC-A</item>
+        <item>UPC-E</item>
+        <item>EAN13</item>
+        <item>EAN8</item>
+        <item>全选</item>
+    </string-array><string-array name="barcode2">
+        <item>QRCODE</item>
+        <item>PDF417</item>
+        <item>DATAMATRIX</item>
+    </string-array><string name="print_this_page">打印當前頁</string><string name="barcode_width_data_range_datamatrix">範圍（8~144）</string><string name="tv_example">打印示例展示</string><string name="conn_failed">連接失敗</string><string name="qrcode_example">二維碼打印示例</string><string name="ean_8_default_value">12345678</string><string name="default_code_content">01051661178</string><string name="scanning">掃描設備中...</string><string name="copies_number">打印份數</string><string-array name="barNoteArray">
+        <item>不打印</item>
+        <item>上方</item>
+        <item>下方</item>
+        <item>上下方均有</item>
+    </string-array><string name="print_test">打印測試頁</string><string name="lable_of_material_transport_80mm2">材料運單80mm標籤</string><string name="str_text_left">文字居左效果演示abc123：</string><string name="shop_change">找零：</string><string name="not_paired">未配對</string><string name="content_after_scann">以上是掃描到的內容</string><string name="picture_print">圖片打印</string><string name="printerAddress">設備地址:未連接</string><string name="take_phtoto_print">即拍即打</string><string name="shop_company_site">公司網址：</string><string name="title_activity_pdf_print">PdfPrintActivity</string><string name="version">圖形版本號:</string><string name="shop_company_tel">電話：</string></file></source><source path="C:\saomiao\PrintDemoV5.2\app\build\generated\res\rs\debug"/><source path="C:\saomiao\PrintDemoV5.2\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\saomiao\PrintDemoV5.2\app\src\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_editbox.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\my_editbox.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test.jpg",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\test.jpg"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_picture.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\my_picture.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\et.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\original.jpg",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\original.jpg"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_monochrome_image.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\my_monochrome_image.bmp"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toggle_btn.xml",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable\\toggle_btn.xml"
+    }
+]

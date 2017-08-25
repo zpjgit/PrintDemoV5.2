@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test.jpg",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\test.jpg"
+    },
+    {
+        "merged": "C:\\saomiao\\PrintDemoV5.2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\goodwork.bmp",
+        "source": "C:\\saomiao\\PrintDemoV5.2\\app\\src\\main\\res\\drawable-xhdpi\\goodwork.bmp"
+    }
+]
